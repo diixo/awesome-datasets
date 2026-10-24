@@ -10,3 +10,4 @@
 - https://huggingface.co/datasets/Saibo-creator/bookcorpus_deduplicated
 - https://huggingface.co/datasets/mamei16/en_wikipedia_paragraphs
 - https://huggingface.co/datasets/roskoN/dailydialog
+- https://huggingface.co/datasets/yukiarimo/english-vocabulary
