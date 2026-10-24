@@ -13,3 +13,6 @@
 - https://huggingface.co/datasets/yukiarimo/english-vocabulary
 - https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk
 - https://huggingface.co/datasets/HuggingFaceTB/everyday-conversations-llama3.1-2k
+- https://huggingface.co/datasets/machelreid/m2d2
+- https://huggingface.co/datasets/allenai/sdsd-dialogues
+- https://huggingface.co/datasets/allenai/sdsd-revisions
