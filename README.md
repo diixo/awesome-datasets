@@ -11,3 +11,5 @@
 - https://huggingface.co/datasets/mamei16/en_wikipedia_paragraphs
 - https://huggingface.co/datasets/roskoN/dailydialog
 - https://huggingface.co/datasets/yukiarimo/english-vocabulary
+- https://huggingface.co/datasets/HuggingFaceTB/smol-smoltalk
+- https://huggingface.co/datasets/HuggingFaceTB/everyday-conversations-llama3.1-2k
